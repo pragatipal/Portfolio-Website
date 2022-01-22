@@ -12,12 +12,12 @@ Variables
     --blue-dark : #1f3f64;
     --orange: #ffa500;
     --green-yellow: #cddc39;
-    --pink-light: #ffb7c8;
-    --cyan-light: #b0fffb;
+    --pink-light: #ff7795e1;
+    --cyan-light: #2fe7ded8;
     --white: #ffffff;
     --white-alpha-40: rgba(255,255,255,0.40);
-    --white-alpha-25: rgba(255,255,255,0.25);
-    --backdrop-filter-blur: blur(9px);
+    --white-alpha-25: rgba(255, 255, 255, 0.25);
+    --backdrop-filter-blur: blur(10px);
 }
 /* ----------------------------------
 Global Settings 
