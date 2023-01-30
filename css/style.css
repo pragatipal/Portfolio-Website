@@ -677,6 +677,11 @@ About Section
     font-weight: 400;
     margin-bottom: 10px;
 }
+.about-text .timeline-item .certificate{
+    color: var(--main-color);
+    font-size: 16px;
+    font-weight: 500;
+}
 .about-text .timeline-item h4{
     font-size: 20px;
     text-transform: capitalize;
